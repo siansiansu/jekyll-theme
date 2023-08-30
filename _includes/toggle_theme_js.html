@@ -1,6 +1,7 @@
 <script type="text/javascript">
   window.addEventListener('load', themeChange);
-  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  <!-- const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null; -->
+  const currentTheme = window.matchMedia("(prefers-color-scheme: light)").matches;
   if (currentTheme)
     document.documentElement.setAttribute('data-theme', currentTheme);
 
