@@ -1,7 +1,8 @@
 title:
-author: Alex Su <minsiansu@gmail.com>
+author: Alex Su
 url: https://siansiansu.github.io
-description:
+description: |
+  台語 台語文 台文 台灣話 Taiwan 臺羅 pe̍h-uē-jī tâi-lô tâi-uē tâi-uân-uē tâi-gí tâi-uân-gí taiwan 鳥 野鳥 野鳥写真 野鳥観察 野鳥撮影 自然
 
 permalink: /:slug
 
@@ -50,3 +51,5 @@ comments: true
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
+  - jekyll-seo-tag
+  - jekyll-sitemap
