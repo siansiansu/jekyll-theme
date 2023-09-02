@@ -2,15 +2,15 @@ title:
 author: Alex Su
 url: https://siansiansu.github.io
 description: |
-  台語 台語文 台文 台灣話 Taiwan 臺羅 pe̍h-uē-jī tâi-lô tâi-uē tâi-uân-uē tâi-gí tâi-uân-gí taiwan 鳥 野鳥 野鳥写真 野鳥観察 野鳥撮影 自然
+  台語 台語文 台文 台灣話 Taiwan 臺羅 pe̍h-uē-jī tâi-lô tâi-uē tâi-uân-uē tâi-gí tâi-uân-gí taiwan 鳥 野鳥 野鳥写真 野鳥観察 野鳥撮影 自然 鳥的台語 台語學習 學台語 學習台語 台語資源
 
 permalink: /:slug
 
 favicon: "./logo.png"
 
-# twitter:
-#     username: siansiansu
-#     card: summary_large_image
+twitter:
+    username: siansiansu
+    card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
@@ -39,7 +39,7 @@ theme_config:
   #   title_old_projects: Old Projects
 
 soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  publish_token: "pt_f6e5d2724f01d550d6a59e76c92b70c6" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
