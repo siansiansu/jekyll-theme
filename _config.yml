@@ -46,7 +46,7 @@ highlighter: rouge
 sass:
   style: :compressed
 
-comments: false
+comments: true
 
 plugins:
   - jekyll-feed
