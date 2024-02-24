@@ -46,8 +46,6 @@ highlighter: rouge
 sass:
   style: :compressed
 
-comments: true
-
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
